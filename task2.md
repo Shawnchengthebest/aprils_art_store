@@ -15,11 +15,14 @@ npx tailwindcss init -p
 
 # add the Tailwind directives to your CSS
 
-
-
 ```
+- [ ] install vscode extension `Tailwind CSS IntelliSense` 
+- [ ] learn basics of `Tailwind` basics; [refrence1](https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/)
 
 ## Step 1: Clean up the folder 
 
 - [ ] remove the `style.css`
+
+
+
 
