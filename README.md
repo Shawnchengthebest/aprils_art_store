@@ -9,8 +9,8 @@ A vue.js online store that selling April's artwork
 
 ## Plans 
 
-1. set up the project folder and instructions [Task1](task1.md)
-
+1. [Task1](task1.md): create the project by using `vite` and make it running 
+2. [Task2](task2.md): add `Tailwind` css for styling and clean up the files 
 
 ## Tutorials 
 
@@ -20,5 +20,5 @@ A vue.js online store that selling April's artwork
 
 
 ### TODO list for Shawn
-1. [ ] get familiar with terminal/linux cmds `cd`, `mkdir`, `ls` 
+1. [ ] get familiar with terminal/linux cmds `cd`, `mkdir`, `ls`, `pwd`
 2. [ ] get familiar with git cmds: `git clone`, `git commit`, `git push`, `git pull`. Workaround: use `github` extension in `vscode` 

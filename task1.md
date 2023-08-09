@@ -1,15 +1,14 @@
 # Task 1: create the project 
 
-## Step 1. 
+
 - [ ] install npm: check [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#osx-or-linux-node-version-managers)
     
-- [ ] add `vite` 
+- [ ] create project using `vite`: `npm create vite@latest`
 
+```bash
+  cd vite-project
+  npm install
+  npm run dev
+```
 
-
-## Step 2. download `vite` and create a `vue.js` project
-
-
-
-
-## Step 2
+- [ ]
