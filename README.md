@@ -15,7 +15,7 @@ A vue.js online store that selling April's artwork
 ## Tutorials 
 
 1. Create a project folder : `mkdir -p ~/projects; cd ~/projects` 
-2. Download the repo using `git clone git@github.com:Shawnchengthebest/aprils_art_store.git` 
+2. Download the repo using `git clone git@github.com:Shawnchengthebest/aprils_art_store.git` or `git clone https://github.com/Shawnchengthebest/aprils_art_store.git` 
 3. 
 
 
