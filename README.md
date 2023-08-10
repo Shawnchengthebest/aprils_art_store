@@ -13,6 +13,7 @@ A vue.js online store that selling April's artwork
 2. [Task2](task2.md): add `Tailwind` css for styling and clean up the files
 3. [Task3](task3.md): create `header` component (aided by GPT-4)
 4. [Task4](task4.md): create a layout of picture to display each art. (A Art component)
+5. [Task5](task5.md): load the json to populate and fine tune the card with price, add to cart button
 
 ## Tutorials
 
